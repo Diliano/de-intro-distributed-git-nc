@@ -1,3 +1,5 @@
-The instructions for this repo can be found here:
+# Data Engineering Bootcamp - Git
 
-https://l2c.northcoders.com/courses/de-intro/distributed-git
+## Overview
+
+This repository contains work completed as part of the Git Sprint during my Data Engineering Bootcamp. 
